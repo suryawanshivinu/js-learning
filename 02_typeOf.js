@@ -9,6 +9,7 @@ console.log("value of bankName after initialization:",bankName);
 var typeofBankName= typeof bankName;
 console.log("DataType of bankName after initialization:", typeof bankName);
 
+
 console.log("=======================STEP 2=============================================================");
 var marks= "90%";
 var typeofMarks=typeof marks;
